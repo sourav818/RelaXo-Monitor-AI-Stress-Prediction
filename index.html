@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Relaxo Monitor</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+body{
+    margin:0;
+    font-family:'Segoe UI',sans-serif;
+    background:linear-gradient(135deg,#1e293b,#0f172a);
+    color:#e2e8f0;
+}
+
+nav{
+    display:flex;
+    justify-content:space-between;
+    padding:12px 25px;
+    background:#020617;
+}
+
+.logo{font-weight:700;color:#7dd3fc;}
+
+.nav-buttons{display:flex;gap:15px;}
+
+.nav-btn{
+    background:#1e293b;
+    border:none;
+    color:#cbd5f5;
+    padding:8px 14px;
+    border-radius:6px;
+    cursor:pointer;
+}
+.nav-btn:hover{background:#334155;}
+
+.wrapper{display:flex;flex-direction:column;align-items:center;}
+
+.grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:30px 40px;
+    justify-items:center;
+}
+
+.card{
+    width:280px;
+    height:260px;
+    border-radius:16px;
+    padding:15px;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    align-items:center;
+    background:rgba(255,255,255,0.05);
+    backdrop-filter:blur(10px);
+}
+
+/* STRESS */
+.stress-card{
+    width:320px;
+    height:130px;
+    margin:20px;
+    border-radius:16px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    background:rgba(239,68,68,0.2);
+}
+
+.stress-high{color:#ef4444;font-size:26px;font-weight:bold;}
+.stress-medium{color:#facc15;font-size:22px;}
+.stress-low{color:#22c55e;font-size:22px;}
+
+/* TREND */
+.trend-up{color:#f87171;}
+.trend-down{color:#4ade80;}
+.trend-stable{color:#94a3b8;}
+
+canvas{
+    width:100%!important;
+    height:350px!important;
+    max-height:350px!important;
+    display:block;
+}
+
+.video-box{text-align:center;margin-top:20px;}
+img{max-width:450px;border-radius:12px;}
+
+.explain{
+    margin-top:10px;
+    padding:10px;
+    background:rgba(255,255,255,0.05);
+    border-radius:10px;
+    font-size:14px;
+    text-align:center;
+    max-width:400px;
+}
+/* ALERT BAR */
+.alert{
+    position:fixed;
+    top:10px;
+    left:50%;
+    transform:translateX(-50%);
+    background:#ef4444;
+    color:white;
+    padding:10px 20px;
+    border-radius:8px;
+    display:none;
+    z-index:1000;
+}
+
+/* HIGH STRESS GLOW */
+.high-stress{
+    box-shadow:0 0 25px rgba(239,68,68,0.7);
+    animation:pulse 1.2s infinite;
+}
+
+@keyframes pulse{
+    0%{transform:scale(1);}
+    50%{transform:scale(1.03);}
+    100%{transform:scale(1);}
+}
+
+/* CARD HOVER */
+.card:hover{
+    transform:translateY(-5px);
+    transition:0.3s;
+}
+</style>
+</head>
+
+<body>
+
+<nav>
+<div class="logo">Relaxo Monitor</div>
+<div class="nav-buttons">
+    <button class="nav-btn" onclick="show('dashboard', this)">Dashboard</button>
+    <button class="nav-btn" onclick="show('bpm', this)">BPM</button>
+    <button class="nav-btn" onclick="show('temp', this)">Temp</button>
+    <button class="nav-btn" onclick="show('emotion', this)">Emotion</button>
+    <button class="nav-btn" onclick="show('movement', this)">Motion</button>
+    <button class="nav-btn" onclick="show('voice', this)">Voice</button>
+    <button class="nav-btn" onclick="window.location.href='/analytics'">Analytics</button>
+</div>
+</nav>
+
+<div id="app"></div>
+<div class="alert" id="alertBox">⚠ High Stress Detected!</div>
+<script>
+
+let current="dashboard";
+let charts={};
+
+function show(page, el){
+    current = page;
+
+    // remove active class from all buttons
+    document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+
+    // set active on clicked one
+    if(el) el.classList.add('active');
+
+    render();
+}
+
+/* TREND */
+function trend(arr){
+    if(arr.length<2) return `<span class="trend-stable">→</span>`;
+    let a=arr.at(-1),b=arr.at(-2);
+    if(a>b) return `<span class="trend-up">↑</span>`;
+    if(a<b) return `<span class="trend-down">↓</span>`;
+    return `<span class="trend-stable">→</span>`;
+}
+
+/* MOVING AVG */
+function smooth(arr){
+    return arr.map((_,i)=>{
+        let s=arr.slice(Math.max(0,i-2),i+1);
+        return s.reduce((a,b)=>a+b,0)/s.length;
+    });
+}
+
+
+/* STRESS EXPLANATION */
+function explain(data){
+    let d=data.at(-1);
+    let msg=[];
+
+    if(d.BPM>100) msg.push("High BPM");
+    if(d.Temp>37.5) msg.push("High Temp");
+    if(d.Emotion==="angry"||d.Emotion==="sad") msg.push("Negative Emotion");
+    if(d.Movement==="HIGH") msg.push("High Movement");
+    if(d.Voice==="HIGH") msg.push("High Voice");
+
+    return msg.length? "Stress due to: "+msg.join(", ") : "Normal state";
+}
+
+
+
+/* CHART */
+function createChart(id,data,color){
+if(!charts[id]){
+charts[id]=new Chart(document.getElementById(id),{
+type:'line',
+data:{
+labels:data.map((_,i)=>i),
+datasets:[{data:data,borderColor:color,tension:0.3}]
+}
+});
+}else{
+charts[id].data.datasets[0].data=data;
+charts[id].update();
+}
+}
+/* Comparison Logic */
+function compareTrend(arr){
+    if(arr.length < 20) return "Not enough data";
+
+    let last5 = arr.slice(-5).reduce((a,b)=>a+b,0)/5;
+    let last20 = arr.slice(-20).reduce((a,b)=>a+b,0)/20;
+
+    if(last5 > last20) return "Worsening";
+    if(last5 < last20) return "Improving";
+    return "Stable";
+}
+/* PREDICTION */
+function predict(stressArr){
+    if(stressArr.length<3) return "Stable";
+
+    let last=stressArr.slice(-3);
+    if(last[2]>last[1] && last[1]>last[0]) return "Likely Increasing";
+    if(last[2]<last[1] && last[1]<last[0]) return "Likely Decreasing";
+    return "Stable";
+}
+/* confidence Score */
+function confidence(data){
+    let d=data.at(-1);
+    let score=50;
+
+    if(d.BPM>100) score+=15;
+    if(d.Temp>37.5) score+=10;
+    if(d.Emotion==="angry"||d.Emotion==="sad") score+=15;
+    if(d.Voice==="HIGH") score+=10;
+
+    return Math.min(score,100);
+}
+/* RENDER */
+function render(){
+const app=document.getElementById("app");
+
+/* DASHBOARD */
+if(current==="dashboard"){
+app.innerHTML=`
+<div class="wrapper">
+
+<h2>Live Overview</h2>
+
+<div class="stress-card">
+<h3>Stress</h3>
+<div id="stress"></div>
+<div id="stressTrend"></div>
+</div>
+
+<div class="explain" id="explain"></div>
+<div class="explain" id="predict"></div>
+
+<div class="grid">
+
+<div class="card">
+<h3>❤️ Heart Rate </h3>
+<div id="bpm"></div>
+<canvas id="bpmChart"></canvas>
+</div>
+
+<div class="card">
+<h3>🌡 Temperature</h3>
+<div id="temp"></div>
+<canvas id="tempChart"></canvas>
+</div>
+
+<div class="card">
+<h3>💜 Emotion</h3>
+<div id="emotion"></div>
+<canvas id="emotionChart"></canvas>
+</div>
+
+<div class="card">
+<h3>🎤 Voice</h3>
+<div id="voice"></div>
+<canvas id="voiceChart"></canvas>
+</div>
+
+</div>
+
+<div style="margin-top:20px;">
+<div class="card">
+<h3>🏃 Motion</h3>
+<div id="movement"></div>
+<canvas id="moveChart"></canvas>
+</div>
+</div>
+
+
+
+</div>
+`;
+}
+
+/* BPM PAGE */
+else if(current==="bpm"){
+app.innerHTML=`
+<div class="wrapper">
+
+<h2 style="margin-top:30px;">❤️ BPM Analysis</h2>
+
+<div class="card" style="width:900px;height:500px;">
+    <h3 style="color:#38bdf8;">Live BPM Monitoring</h3>
+
+    <div style="font-size:40px;font-weight:bold;color:#38bdf8;" id="bpm"></div>
+
+    <canvas id="bpmChart"></canvas>
+
+    <div class="explain">
+        Heart rate trend analysis with real-time monitoring.
+    </div>
+</div>
+
+</div>
+`;
+}
+
+/* TEMP PAGE */
+else if(current==="temp"){
+app.innerHTML=`
+<div class="wrapper">
+
+<h2 style="margin-top:30px;">🌡 Temperature Analysis</h2>
+
+<div class="card" style="width:900px;height:500px;">
+    <h3 style="color:#facc15;">Live Temperature Monitoring</h3>
+
+    <div style="font-size:40px;font-weight:bold;color:#facc15;" id="temp"></div>
+
+    <canvas id="tempChart"></canvas>
+
+    <div class="explain">
+        Body temperature trend and thermal monitoring.
+    </div>
+</div>
+
+</div>
+`;
+}
+
+/* EMOTION PAGE */
+else if(current==="emotion"){
+app.innerHTML=`
+<div class="wrapper">
+
+<h2 style="margin-top:30px;">💜 Emotion Analysis</h2>
+
+<div class="card" style="width:900px;height:500px;">
+    <h3 style="color:#c084fc;">Emotion Detection</h3>
+
+    <div style="font-size:40px;font-weight:bold;color:#c084fc;" id="emotion"></div>
+
+    <canvas id="emotionChart"></canvas>
+
+    <div class="explain">
+        Emotion distribution and AI emotional state analysis.
+    </div>
+</div>
+
+</div>
+`;
+}
+
+/* MOVEMENT PAGE */
+else if(current==="movement"){
+app.innerHTML=`
+<div class="wrapper">
+
+<h2 style="margin-top:30px;">🏃 Movement Analysis</h2>
+
+<div class="card" style="width:900px;height:500px;">
+    <h3 style="color:#f472b6;">Motion Activity Tracking</h3>
+
+    <div style="font-size:40px;font-weight:bold;color:#f472b6;" id="movement"></div>
+
+    <canvas id="moveChart"></canvas>
+
+    <div class="explain">
+        Real-time movement and physical activity monitoring.
+    </div>
+</div>
+
+</div>
+`;
+}
+
+/* VOICE PAGE */
+else if(current==="voice"){
+app.innerHTML=`
+<div class="wrapper">
+
+<h2 style="margin-top:30px;">🎤 Voice Analysis</h2>
+
+<div class="card" style="width:900px;height:500px;">
+    <h3 style="color:#22c55e;">Voice Stress Monitoring</h3>
+
+    <div style="font-size:40px;font-weight:bold;color:#22c55e;" id="voice"></div>
+
+    <canvas id="voiceChart"></canvas>
+
+    <div class="explain">
+        Voice intensity and stress pattern analysis.
+    </div>
+</div>
+
+</div>
+`;
+}
+
+/* CLOSE RENDER FUNCTION */
+}
+
+/* LOAD */
+async function load(){
+
+const res = await fetch('/data');
+const data = await res.json();
+if(!data.length) return;
+
+/* DEFINE DATA FIRST */
+const bpmArr = data.map(d=>d.BPM);
+const tempArr = data.map(d=>d.Temp);
+const stressArr = data.map(d=>d.Stress==="HIGH"?90:d.Stress==="MEDIUM"?60:25);
+const moveArr = data.map(d=>d.Movement==="HIGH"?10:1);
+const voiceArr = data.map(d=>d.Voice==="HIGH"?10:1);
+
+/* ALERT */
+const alertBox = document.getElementById("alertBox");
+if(alertBox){
+    if(data.at(-1).Stress==="HIGH"){
+        alertBox.style.display="block";
+        document.querySelector(".stress-card")?.classList.add("high-stress");
+    }else{
+        alertBox.style.display="none";
+        document.querySelector(".stress-card")?.classList.remove("high-stress");
+    }
+}
+
+/* VALUES */
+const bpmEl = document.getElementById("bpm");
+if(bpmEl){
+    bpmEl.innerHTML = bpmArr.at(-1) + " " + trend(bpmArr);
+}
+
+const tempEl = document.getElementById("temp");
+if(tempEl){
+    tempEl.innerHTML = tempArr.at(-1) + " " + trend(tempArr);
+}
+
+const stressEl = document.getElementById("stress");
+const stressTrendEl = document.getElementById("stressTrend");
+
+if(stressEl){
+    let s = data.at(-1).Stress;
+    let cls = s==="HIGH"?"stress-high":s==="MEDIUM"?"stress-medium":"stress-low";
+    stressEl.innerHTML = `<span class="${cls}">${s}</span>`;
+}
+
+if(stressTrendEl){
+    stressTrendEl.innerHTML = trend(stressArr);
+}
+
+/* OTHER VALUES */
+const emotionEl = document.getElementById("emotion");
+if(emotionEl) emotionEl.innerText = data.at(-1).Emotion;
+
+const voiceEl = document.getElementById("voice");
+if(voiceEl) voiceEl.innerText = data.at(-1).Voice;
+
+const movementEl = document.getElementById("movement");
+if(movementEl) movementEl.innerText = data.at(-1).Movement;
+
+/* EXPLANATION */
+const explainEl = document.getElementById("explain");
+if(explainEl){
+    explainEl.innerText = explain(data) + 
+        " | Confidence: " + confidence(data) + "%";
+}
+
+/* PREDICTION */
+const predictEl = document.getElementById("predict");
+if(predictEl){
+    predictEl.innerText =
+        "Prediction: " + predict(stressArr) +
+        " | Trend: " + compareTrend(stressArr);
+}
+
+/* CHARTS */
+if(document.getElementById("bpmChart")){
+    createChart("bpmChart", smooth(bpmArr), "#38bdf8");
+}
+if(document.getElementById("tempChart")){
+    createChart("tempChart", smooth(tempArr), "#facc15");
+}
+if(document.getElementById("voiceChart")){
+    createChart("voiceChart", voiceArr, "#22c55e");
+}
+if(document.getElementById("moveChart")){
+    createChart("moveChart", moveArr, "#f472b6");
+}
+
+/* EMOTION CHART */
+const emotionChartEl = document.getElementById("emotionChart");
+if(emotionChartEl){
+    const counts = {};
+    data.forEach(d => counts[d.Emotion] = (counts[d.Emotion] || 0) + 1);
+
+    new Chart(emotionChartEl,{
+        type:'bar',
+        data:{
+            labels:Object.keys(counts),
+            datasets:[{
+                data:Object.values(counts),
+                backgroundColor:"#c084fc"
+            }]
+        }
+    });
+}
+
+
+}
+
+render();
+setInterval(load,2000);
+
+</script>
+
+</body>
+</html>

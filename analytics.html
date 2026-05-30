@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Advanced Analytics</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Bootstrap -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+body {
+    background: linear-gradient(135deg,#020617,#0f172a);
+    color: white;
+    font-family: 'Segoe UI';
+}
+.card {
+    background: rgba(30,41,59,0.8);
+    border-radius: 15px;
+    padding: 15px;
+}
+h1 { color: cyan; }
+canvas {
+    background: #020617;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* VALUE STYLE */
+.value {
+    font-weight: bold;
+    font-size: 42px;
+}
+
+/* BPM */
+.bpm-text {
+    color: #2196f3;
+}
+
+/* TEMP */
+.temp-text {
+    color: #22c55e;
+}
+
+/* STRESS */
+.stress-text {
+    color: #a855f7;
+}
+</style>
+</head>
+
+<body class="container py-4">
+
+<h1 class="text-center mb-4">📊 Advanced Stress Analytics</h1>
+
+<!-- SUMMARY -->
+<div class="row text-center mb-4">
+    <div class="col-md-4">
+        <div class="card">
+            <h5 class="bpm-text">Average BPM</h5>
+            <h3 id="avgBPM" class="value bpm-text">--</h3>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <h5 class="temp-text">Average Temp</h5>
+            <h3 id="avgTemp" class="value temp-text">--</h3>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <h5 class="stress-text">High Stress Count</h5>
+            <h3 id="highCount" class="value stress-text">--</h3>
+        </div>
+    </div>
+</div>
+
+<div class="row g-4">
+
+    <!-- TIME GRAPH -->
+    <div class="col-lg-6">
+        <div class="card">
+            <h5 class="text-center">⏱ BPM Over Time</h5>
+            <canvas id="timeChart"></canvas>
+        </div>
+    </div>
+
+    <!-- PIE -->
+    <div class="col-lg-6">
+        <div class="card">
+            <h5 class="text-center">🥧 Stress Distribution</h5>
+            <canvas id="pieChart"></canvas>
+        </div>
+    </div>
+
+</div>
+
+<!-- 🤖 PREDICTION GRAPH -->
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card">
+            <h5 class="text-center">🤖 Stress Prediction Trend</h5>
+            <canvas id="predictionChart"></canvas>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="text-center">
+    <a href="/download" class="btn btn-success m-2">⬇ CSV</a>
+
+    <button onclick="downloadJSON()" class="btn btn-info m-2">
+        ⬇ JSON
+    </button>
+
+    <a href="/report" class="btn btn-danger m-2">
+        📄 Download Report
+    </a>
+
+    <a href="/" class="btn btn-warning m-2">
+        ⬅ Back
+    </a>
+</div>
+
+<script>
+
+// 🤖 SIMPLE TREND PREDICTION
+function predictStressTrend(stressData) {
+
+    const numeric = stressData.map(s =>
+        s === "HIGH" ? 3 :
+        s === "MEDIUM" ? 2 : 1
+    );
+
+    let predicted = [...numeric];
+
+    for (let i = 0; i < 5; i++) {
+        let last = predicted[predicted.length - 1];
+        let prev = predicted[predicted.length - 2] || last;
+
+        let trend = last - prev;
+        let next = last + trend;
+
+        if (next > 3) next = 3;
+        if (next < 1) next = 1;
+
+        predicted.push(next);
+    }
+
+    return predicted;
+}
+
+async function loadAnalytics() {
+
+    const res = await fetch('/data');
+    const data = await res.json();
+
+    if (data.length === 0) return;
+
+    const bpm = data.map(d => d.BPM);
+    const temp = data.map(d => d.Temp);
+    const time = data.map(d => d.Time || new Date().toLocaleTimeString());
+    const stress = data.map(d => d.Stress);
+
+    // 📈 Averages
+    document.getElementById("avgBPM").innerText =
+        (bpm.reduce((a,b)=>a+b,0)/bpm.length).toFixed(1);
+
+    document.getElementById("avgTemp").innerText =
+        (temp.reduce((a,b)=>a+b,0)/temp.length).toFixed(1);
+
+    document.getElementById("highCount").innerText =
+        stress.filter(s => s === "HIGH").length;
+
+    // ⏱ TIME GRAPH
+    new Chart(document.getElementById('timeChart'), {
+        type: 'line',
+        data: {
+            labels: time,
+            datasets: [{
+                label: 'BPM',
+                data: bpm,
+                borderColor: 'cyan',
+                tension: 0.4
+            }]
+        }
+    });
+
+    // 🥧 PIE CHART
+    const counts = {
+        LOW: stress.filter(s=>s==="LOW").length,
+        MEDIUM: stress.filter(s=>s==="MEDIUM").length,
+        HIGH: stress.filter(s=>s==="HIGH").length
+    };
+
+    new Chart(document.getElementById('pieChart'), {
+        type: 'pie',
+        data: {
+            labels: ["LOW","MEDIUM","HIGH"],
+            datasets: [{
+                data: [counts.LOW, counts.MEDIUM, counts.HIGH],
+                backgroundColor: ["green","yellow","red"]
+            }]
+        }
+    });
+
+    // 🤖 PREDICTION GRAPH
+    const predicted = predictStressTrend(stress);
+
+    const labels = stress.map((_, i) => i);
+    for (let i = 0; i < 5; i++) labels.push("F" + (i+1));
+
+    new Chart(document.getElementById('predictionChart'), {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: [
+                {
+                    label: "Actual Stress",
+                    data: predicted.slice(0, stress.length),
+                    borderColor: "cyan",
+                    tension: 0.4
+                },
+                {
+                    label: "Predicted Stress",
+                    data: predicted,
+                    borderColor: "red",
+                    borderDash: [5,5],
+                    tension: 0.4
+                }
+            ]
+        }
+    });
+
+    window.fullData = data;
+}
+
+// 📥 JSON EXPORT
+function downloadJSON() {
+    const blob = new Blob([JSON.stringify(window.fullData,null,2)], {type:"application/json"});
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "analytics.json";
+    a.click();
+}
+
+loadAnalytics();
+
+</script>
+
+</body>
+</html>

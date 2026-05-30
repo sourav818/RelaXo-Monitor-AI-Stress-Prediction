@@ -1,0 +1,1474 @@
+Time,BPM,Temp,Humidity,Emotion,Movement,Voice,Stress,Suggestion
+2026-05-07 16:43:11.710797,18.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:12.733544,18.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:13.451644,18.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:13.633234,18.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:13.821680,31.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:14.005878,31.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:14.604665,31.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:15.606299,49.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:15.775651,49.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:16.010041,49.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:16.184174,66.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:16.627856,66.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:16.834636,66.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:17.138093,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:17.322954,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:17.499890,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:18.672349,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:18.960384,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:19.288171,77.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:19.595269,77.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:19.759709,77.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:19.943076,77.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:20.208583,77.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:20.617799,77.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:21.643736,77.0,34.2,70.0,neutral,HIGH,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:21.929157,77.0,34.2,70.0,neutral,HIGH,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:22.093813,77.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:22.359938,77.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:22.538102,82.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:22.712799,82.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:22.974181,82.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:23.280720,82.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:23.689490,82.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:24.714157,82.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:25.125653,82.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:25.292822,82.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:25.466906,75.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:25.633674,75.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:25.942879,75.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:26.112306,74.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:26.298041,74.0,34.2,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:28.707351,74.0,34.7,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:28.873380,74.0,34.7,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:29.116588,74.0,34.7,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:29.305255,82.0,34.7,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:30.263733,82.0,34.7,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:30.652231,82.0,34.7,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:30.809962,82.0,34.7,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:31.062275,77.0,34.7,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:31.234995,77.0,34.7,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:31.472815,77.0,34.7,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:31.660476,77.0,34.7,70.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:43:31.842129,73.0,34.7,70.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:32.087986,73.0,34.7,70.0,neutral,HIGH,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:32.266958,73.0,34.7,70.0,neutral,HIGH,LOW,LOW,Stay calm and relax.
+2026-05-07 16:43:33.253679,73.0,34.7,70.0,neutral,HIGH,LOW,LOW,Stay calm and relax.
+2026-05-07 16:49:31.170993,13.0,34.7,68.0,neutral,LOW,HIGH,HIGH,Stay calm and relax.
+2026-05-07 16:49:31.828485,13.0,34.7,68.0,neutral,LOW,HIGH,HIGH,Stay calm and relax.
+2026-05-07 16:49:32.849750,13.0,34.7,68.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:49:33.252799,31.0,34.7,68.0,angry,LOW,LOW,HIGH,Stay calm and relax.
+2026-05-07 16:49:33.568671,31.0,34.7,68.0,angry,LOW,LOW,HIGH,Stay calm and relax.
+2026-05-07 16:49:33.750792,31.0,34.7,69.0,angry,LOW,LOW,HIGH,Stay calm and relax.
+2026-05-07 16:49:33.931070,49.0,34.7,69.0,angry,LOW,LOW,HIGH,Stay calm and relax.
+2026-05-07 16:49:34.123589,49.0,34.7,69.0,angry,LOW,LOW,HIGH,Stay calm and relax.
+2026-05-07 16:49:34.308493,49.0,34.7,69.0,angry,LOW,LOW,HIGH,Stay calm and relax.
+2026-05-07 16:49:34.537693,67.0,34.7,69.0,angry,LOW,LOW,HIGH,Stay calm and relax.
+2026-05-07 16:49:35.207127,67.0,34.7,69.0,angry,LOW,LOW,HIGH,Stay calm and relax.
+2026-05-07 16:49:36.435430,67.0,34.7,69.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:49:36.609199,67.0,34.7,69.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:49:37.048504,67.0,34.7,69.0,neutral,LOW,LOW,LOW,Stay calm and relax.
+2026-05-07 16:49:37.356906,77.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:37.664049,77.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:37.972484,77.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:38.160274,82.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:39.201173,82.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:39.509219,82.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:39.827484,82.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:40.669964,82.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:40.818941,82.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:41.042054,82.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:42.036636,82.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:42.335046,82.0,34.7,69.0,neutral,HIGH,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:42.578266,82.0,34.7,69.0,neutral,HIGH,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:42.766581,77.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:42.988291,77.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:43.300388,77.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:43.603326,85.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:43.910097,85.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:44.934470,85.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:45.230604,84.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:45.429722,84.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:45.617481,84.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:45.815353,84.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:46.061937,84.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:46.233569,84.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:46.415164,85.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:46.615704,85.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:46.783249,85.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:47.800995,89.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:48.211607,89.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 16:49:48.520235,89.0,34.7,69.0,neutral,LOW,LOW,MEDIUM,Stay calm and relax.
+2026-05-07 17:03:22.031801,18.0,34.2,70.0,neutral,LOW,LOW,LOW,"Try taking a slow, deep breath to maintain your calm and focus."
+2026-05-07 17:03:24.264311,18.0,34.2,70.0,neutral,HIGH,HIGH,HIGH,Try deep breathing exercises for a few minutes to help reduce stress.
+2026-05-07 17:03:25.695501,18.0,34.2,70.0,neutral,HIGH,HIGH,HIGH,Try deep breathing exercises for a few minutes to help reduce stress and calm your mind.
+2026-05-07 17:03:27.638448,35.0,34.2,70.0,neutral,LOW,LOW,LOW,Try gentle stretching to boost circulation and improve energy.
+2026-05-07 17:03:29.177409,35.0,34.2,70.0,neutral,LOW,LOW,LOW,Try incorporating a 5-minute mindfulness breathing exercise into your day to maintain calm and focus.
+2026-05-07 17:03:31.017847,35.0,34.2,70.0,neutral,LOW,HIGH,HIGH,"Try slow, deep breaths to help lower your heart rate and reduce stress."
+2026-05-07 17:03:32.348574,35.0,34.2,70.0,neutral,LOW,HIGH,HIGH,"Try deep, slow breathing exercises to help reduce stress and lower your heart rate."
+2026-05-07 17:03:34.191698,35.0,34.2,70.0,neutral,LOW,LOW,LOW,Try incorporating gentle stretching into your day to help maintain flexibility and promote relaxation.
+2026-05-07 17:03:35.320433,46.0,34.2,70.0,neutral,LOW,LOW,LOW,Try incorporating gentle deep breathing exercises into your daily routine to promote relaxation and maintain your calm state.
+2026-05-07 17:03:37.059813,46.0,34.2,70.0,neutral,LOW,HIGH,HIGH,"Try deep, slow breathing exercises to help reduce stress and promote calmness."
+2026-05-07 17:03:38.494475,46.0,34.2,70.0,happy,LOW,HIGH,HIGH,"Try deep, slow breaths to help calm stress while keeping your happiness flowing."
+2026-05-07 17:03:40.440331,46.0,34.2,70.0,happy,LOW,LOW,LOW,Try incorporating gentle deep breathing exercises into your day to maintain your calm and happiness.
+2026-05-07 17:03:41.674811,59.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a few deep breaths to enhance relaxation and maintain your calm state.
+2026-05-07 17:03:43.715487,59.0,34.2,70.0,neutral,LOW,HIGH,HIGH,Try a few deep belly breaths to help lower your stress and bring calm.
+2026-05-07 17:03:44.844536,59.0,34.2,70.0,happy,LOW,HIGH,HIGH,Try deep breathing exercises to help reduce stress while maintaining your happy mood.
+2026-05-07 17:03:48.018524,59.0,34.2,70.0,happy,LOW,LOW,LOW,Try starting your day with a few minutes of mindful breathing to maintain your calm and happiness.
+2026-05-07 17:03:50.166384,59.0,34.2,70.0,neutral,LOW,LOW,LOW,Try incorporating a 5-minute mindful breathing exercise into your day to enhance relaxation.
+2026-05-07 17:10:47.569851,13.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.497140,13.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.523207,13.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.556270,13.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.582455,13.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.616111,24.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.646126,24.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.678238,24.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.709588,41.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.741054,41.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.773393,41.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.802955,59.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.833722,59.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.864772,59.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.897377,59.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.921530,59.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.959652,59.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:48.992450,68.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:49.022557,68.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:49.055796,68.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:49.189270,73.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:49.409556,73.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:49.629508,73.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:49.982458,73.0,34.7,70.0,neutral,LOW,LOW,LOW,"Try taking a few deep, slow breaths to enhance your relaxation and focus."
+2026-05-07 17:10:50.935453,76.0,34.7,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-07 17:10:51.784596,76.0,34.7,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-07 17:10:51.809621,76.0,34.7,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-07 17:10:51.842659,76.0,34.7,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-07 17:10:52.879648,71.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:53.028702,71.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:53.071698,71.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:53.099166,71.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:53.136834,67.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:53.199881,67.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:53.262800,67.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:53.292729,67.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:53.325309,71.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:53.354227,71.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:53.385,71.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:53.424937,71.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:53.637205,71.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:54.638626,64.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:54.664091,64.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:54.692007,64.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:54.717525,64.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:54.764420,64.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:54.979775,61.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:55.327560,61.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:55.425449,61.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:55.643090,61.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:55.864468,61.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:56.084469,61.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:56.304211,61.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:56.545642,61.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:57.536145,61.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:57.710183,58.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:57.738850,58.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:57.770063,58.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:57.810366,58.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:57.877467,58.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:58.089818,58.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:58.310452,54.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:58.555089,54.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:58.771659,54.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:10:58.990501,61.0,34.7,70.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-07 17:28:27.731677,13.0,33.3,73.0,neutral,LOW,HIGH,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:28.681724,13.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:28.711895,13.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:28.745364,13.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:28.777053,13.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:28.801083,24.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:28.829811,24.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:28.860381,24.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:28.885626,42.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:28.914791,42.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:28.948688,42.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:28.978112,42.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.005612,55.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.034301,55.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.060888,55.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.093955,55.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.119610,69.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.158410,69.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.185788,69.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.214529,73.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.240391,73.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.266784,73.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.332760,80.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.362824,80.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.398341,80.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.427621,80.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.452283,80.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.477248,80.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.513788,85.0,33.3,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.572499,85.0,33.6,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.611440,85.0,33.6,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.669214,89.0,33.6,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:29.883454,89.0,33.6,73.0,sad,LOW,LOW,HIGH,"Take a few deep, slow breaths to help calm your mind and reduce stress."
+2026-05-07 17:28:32.915604,89.0,33.6,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:33.820918,89.0,33.6,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:33.859110,89.0,33.6,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:33.890769,89.0,33.6,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:33.917510,89.0,33.6,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:33.976360,84.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.007612,84.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.036628,84.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.066606,84.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.094073,84.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.123863,84.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.151591,84.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.177434,84.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.210973,77.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.247764,77.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.276173,77.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.326040,77.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.359714,77.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.392982,77.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.416671,77.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.559664,77.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.775489,77.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:34.996755,82.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:35.347801,82.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:35.456879,82.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:35.677823,82.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:36.669612,82.0,33.8,73.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:36.700501,82.0,33.8,73.0,neutral,HIGH,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-07 17:28:38.153833,73.0,33.8,73.0,neutral,LOW,LOW,LOW,Try taking a 5-minute mindful breathing break to maintain your calm and focus.
+2026-05-07 17:35:19.270200,18.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.241018,18.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.277994,18.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.316740,36.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.355352,36.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.384638,36.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.420576,36.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.456628,36.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.483815,36.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.514942,36.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.547442,36.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.574804,36.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.607706,36.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.636659,54.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.669997,54.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.703770,54.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.732580,54.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.763860,54.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.787353,54.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.824431,62.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.854847,62.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:20.906260,62.0,34.2,70.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breath break to enhance relaxation and focus.
+2026-05-07 17:35:28.678464,80.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:29.671630,80.0,34.2,70.0,neutral,HIGH,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:29.704823,80.0,34.2,70.0,neutral,HIGH,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:29.735525,80.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:29.765126,80.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:29.796209,80.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:29.829154,80.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:29.871841,80.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:29.905107,80.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:29.936857,80.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:29.966285,80.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.000275,80.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.045753,89.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.070719,89.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.105518,89.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.133557,89.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.164086,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.189242,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.231532,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.259403,85.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.291467,85.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.319486,85.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.348887,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.385903,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.416583,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.470894,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.508623,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.529379,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.557565,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.584315,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.617460,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.649137,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.676468,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.713091,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.746794,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-07 17:35:30.778300,84.0,34.2,70.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts and reduce stress.
+2026-05-08 11:01:08.043632,62.0,31.8,69.0,sad,LOW,LOW,HIGH,"Take a few minutes to practice deep breathing—inhale slowly for 4 seconds, hold for 4, and exhale for 6—to help"
+2026-05-08 11:01:11.497720,62.0,31.8,69.0,neutral,HIGH,LOW,LOW,Try taking a brief mindful breathing break to refresh your focus.
+2026-05-08 11:01:11.813569,62.0,31.8,69.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to refresh your focus.
+2026-05-08 11:01:12.167804,62.0,31.8,69.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to refresh your focus.
+2026-05-08 11:01:12.360172,62.0,31.8,69.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to refresh your focus.
+2026-05-08 11:01:13.312897,73.0,31.8,69.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to refresh your focus.
+2026-05-08 11:01:13.516131,73.0,31.8,69.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to refresh your focus.
+2026-05-08 11:01:13.696151,73.0,31.8,69.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to refresh your focus.
+2026-05-08 11:01:13.968898,73.0,31.8,69.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to refresh your focus.
+2026-05-08 11:01:14.238346,73.0,31.8,69.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to refresh your focus.
+2026-05-08 11:01:14.584157,73.0,31.8,69.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to refresh your focus.
+2026-05-08 11:32:10.310241,53.0,31.8,68.0,neutral,LOW,LOW,LOW,Try a few deep breaths to enhance your calm and focus.
+2026-05-08 11:32:12.247297,53.0,31.8,68.0,neutral,LOW,LOW,LOW,Try a few deep breaths to enhance your calm and focus.
+2026-05-08 11:32:12.477163,53.0,31.8,68.0,neutral,LOW,LOW,LOW,Try a few deep breaths to enhance your calm and focus.
+2026-05-08 11:32:12.695663,71.0,31.8,68.0,neutral,LOW,LOW,LOW,Try a few deep breaths to enhance your calm and focus.
+2026-05-08 11:32:12.911651,71.0,31.8,68.0,neutral,LOW,LOW,LOW,Try a few deep breaths to enhance your calm and focus.
+2026-05-08 11:32:13.109668,71.0,31.8,68.0,neutral,LOW,LOW,LOW,Try a few deep breaths to enhance your calm and focus.
+2026-05-08 11:32:13.305289,71.0,31.8,68.0,neutral,LOW,LOW,LOW,Try a few deep breaths to enhance your calm and focus.
+2026-05-08 11:32:15.820559,85.0,31.8,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-08 11:32:43.568530,85.0,31.8,68.0,neutral,LOW,HIGH,HIGH,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-08 11:32:44.813114,85.0,31.8,68.0,angry,HIGH,LOW,HIGH,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-08 11:32:45.071836,84.0,31.8,68.0,angry,LOW,LOW,HIGH,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-08 11:32:45.268978,84.0,31.8,68.0,angry,LOW,LOW,HIGH,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-08 11:32:45.448354,84.0,31.8,68.0,angry,LOW,LOW,HIGH,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-08 11:32:45.634067,84.0,31.8,68.0,angry,LOW,LOW,HIGH,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-08 11:32:45.838373,84.0,31.8,68.0,angry,LOW,LOW,HIGH,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-08 11:32:47.562669,84.0,31.8,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and boost focus.
+2026-05-08 11:32:48.530558,84.0,31.8,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and boost focus.
+2026-05-08 21:05:17.605552,62.0,30.2,69.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and boost your energy.
+2026-05-08 21:05:20.369242,62.0,30.2,69.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and boost your energy.
+2026-05-08 21:05:20.907567,62.0,30.2,69.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and boost your energy.
+2026-05-08 21:05:21.361858,62.0,30.2,69.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and boost your energy.
+2026-05-08 21:05:21.615156,62.0,30.2,69.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and boost your energy.
+2026-05-08 21:05:21.962811,62.0,30.2,69.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and boost your energy.
+2026-05-08 21:05:22.166424,71.0,30.2,69.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and boost your energy.
+2026-05-08 21:05:30.421865,71.0,30.2,69.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and refocus.
+2026-05-08 21:05:32.912775,71.0,30.2,69.0,neutral,HIGH,LOW,LOW,Take a 5-minute mindful breathing break to enhance your calm and focus.
+2026-05-08 21:05:33.313720,71.0,30.2,69.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance your calm and focus.
+2026-05-08 21:05:34.410588,71.0,30.2,69.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance your calm and focus.
+2026-05-08 21:05:34.609007,71.0,30.2,69.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance your calm and focus.
+2026-05-08 22:37:28.200449,53.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:30.702878,53.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:31.199297,53.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:31.498466,71.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:31.766696,71.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:32.054838,71.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:32.435979,89.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:33.562393,89.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:34.028239,89.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:34.228518,89.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:34.452810,85.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:34.757890,85.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:35.023790,85.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:35.368898,84.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:36.406497,84.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:36.587302,84.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:36.812705,84.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:37.223506,84.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:37.687227,84.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:38.084875,84.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:38.270291,80.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 22:37:39.438313,80.0,28.5,69.0,sad,LOW,LOW,HIGH,Try deep breathing exercises to help calm your mind and reduce stress.
+2026-05-08 23:01:31.300603,62.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and body.
+2026-05-08 23:01:33.153175,62.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and body.
+2026-05-08 23:01:33.344193,62.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and body.
+2026-05-08 23:01:34.938754,80.0,28.5,64.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-08 23:01:35.998662,80.0,28.5,64.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-08 23:01:36.161921,80.0,28.5,64.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-08 23:01:36.337363,80.0,28.5,64.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-08 23:01:36.512707,76.0,28.5,64.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-08 23:01:36.689629,76.0,28.5,64.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-08 23:01:36.850363,76.0,28.5,64.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-08 23:01:37.019224,76.0,28.5,64.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-08 23:01:39.433061,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:40.548221,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:40.724834,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:40.907092,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:41.080902,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:41.241941,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:41.395935,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:41.561347,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:41.733974,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:42.022195,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:42.187156,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:42.332846,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:42.490975,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:43.450506,64.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:43.613503,64.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:43.748250,64.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:43.907950,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:44.169180,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:44.316892,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:44.462258,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:44.601217,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:44.763474,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:44.900912,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:45.065412,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:45.218208,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:45.399636,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:46.328986,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:46.612481,68.0,28.5,64.0,neutral,HIGH,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:46.764578,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:46.915188,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:47.063376,68.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-08 23:01:48.429234,76.0,28.5,64.0,neutral,HIGH,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and refocus.
+2026-05-08 23:01:49.678462,76.0,28.5,64.0,neutral,HIGH,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and refocus.
+2026-05-08 23:01:49.839349,76.0,28.5,64.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and refocus.
+2026-05-08 23:01:49.994427,76.0,28.5,64.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and refocus.
+2026-05-08 23:01:51.468792,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to maintain your calm and focus.
+2026-05-08 23:01:52.823079,71.0,28.5,64.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to maintain your calm and focus.
+2026-05-09 08:36:52.803802,60.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:54.755559,60.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:54.928966,60.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:55.102939,60.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:55.328482,73.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:55.500688,73.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:55.661635,73.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:55.816875,73.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:55.975884,69.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:56.253905,69.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:56.414380,69.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:56.555464,69.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:56.691284,64.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:57.554627,64.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:57.703949,64.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:57.865195,64.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:57.989165,64.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:58.116821,64.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:58.247253,64.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:58.499980,64.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:58.632909,69.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:58.762337,69.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:58.900342,69.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:59.063459,73.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:59.194415,73.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:59.334866,73.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:36:59.454705,73.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:37:00.363409,73.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:37:00.496324,73.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:37:00.748784,73.0,29.3,72.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 08:37:02.890377,77.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:03.921282,77.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:04.077944,77.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:04.209864,77.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:04.331542,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:04.488443,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:04.618700,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:04.741388,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:04.857666,76.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:04.995797,76.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:05.284110,76.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:05.429870,76.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:05.604258,76.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:05.746028,76.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:05.893722,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:06.786495,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:06.910079,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:07.034998,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:07.159488,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:07.435736,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:07.596609,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:07.727195,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:07.869463,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:07.998175,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:08.128820,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:08.268042,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:08.409603,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:08.545701,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:08.668472,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:09.616537,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:09.956575,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:10.082744,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:10.226165,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 08:37:10.351057,80.0,29.3,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your thoughts.
+2026-05-09 09:01:07.884081,51.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:09.638173,51.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:09.823731,51.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:10.001081,51.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:10.153329,64.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:10.328069,64.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:10.495198,64.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:10.709004,64.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:10.974816,64.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:11.142198,64.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:11.298267,59.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:11.464946,59.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:11.626064,59.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:12.550823,59.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:12.698403,59.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:12.893684,59.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:13.143853,59.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:13.274510,62.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:13.429209,62.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:13.561700,62.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:13.674647,62.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:13.802963,62.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:13.921231,62.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:14.058,62.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:14.341523,62.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:14.489950,62.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:15.393584,67.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:15.647532,67.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:15.789769,67.0,29.8,72.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed and energized.
+2026-05-09 09:01:18.006373,76.0,29.8,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:01:19.061144,76.0,29.8,72.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:13:30.149115,55.0,29.8,70.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:31.791824,55.0,29.8,70.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:31.948588,55.0,29.8,70.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:32.102878,55.0,29.8,70.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:32.247406,69.0,29.8,70.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:32.391740,69.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:32.559517,69.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:32.708299,69.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:32.868203,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:33.010676,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:33.269516,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:33.418409,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:33.575521,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:33.717176,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:34.649983,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:34.796340,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:34.930977,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:35.068376,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:35.205279,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:35.483520,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:35.612616,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:35.748336,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:35.877579,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:36.039172,71.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:36.172910,67.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:36.309717,67.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:36.437191,67.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:36.559385,67.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:13:37.450083,67.0,29.8,71.0,neutral,LOW,LOW,LOW,Try incorporating deep breathing exercises for 5 minutes to enhance relaxation.
+2026-05-09 09:15:26.832129,53.0,30.2,68.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-09 09:15:28.746840,53.0,30.2,68.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-09 09:15:28.889402,53.0,30.2,68.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-09 09:15:29.032890,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-09 09:15:29.168662,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-09 09:15:29.319571,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-09 09:15:29.506323,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-09 09:15:30.599062,85.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:15:31.569092,85.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:15:31.694831,85.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:15:31.842145,85.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:15:31.995263,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:15:32.137621,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:15:32.280691,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:15:32.433283,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:15:32.568977,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:15:32.715387,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:15:32.974540,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:15:33.109321,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:15:34.416716,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:35.306814,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:35.529397,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:35.657151,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:35.799319,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:35.931952,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:36.047653,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:36.205643,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:36.337197,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:36.470524,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:36.609648,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:36.726307,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:36.861457,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:36.986426,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:37.115998,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:37.241181,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:38.153123,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:38.400077,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:38.537426,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:38.661747,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:38.780828,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:38.928788,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:39.042963,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:39.171513,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:39.308237,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:39.442890,64.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:39.594854,64.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:39.741355,64.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:39.875413,64.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:40.017765,64.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:40.151843,64.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:41.081112,64.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:41.351302,69.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:41.478913,69.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:41.611772,69.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:41.748099,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:41.880741,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:42.002988,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:42.132776,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:42.272608,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:42.411244,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:42.531694,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:42.659061,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:42.809729,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:42.949874,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:43.881921,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:44.095806,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:44.226902,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:44.366812,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:44.510622,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:44.657581,68.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:44.770734,68.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:44.906910,68.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:45.030883,68.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:45.152792,64.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:45.295250,64.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:45.436005,64.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:45.569775,64.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:45.692239,60.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:45.829666,60.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:46.764201,60.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:46.974394,60.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:47.090086,59.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:47.216130,59.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:47.338641,59.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:47.472013,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:47.598525,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:47.748395,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:49.138169,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:50.170732,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:50.299283,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:50.421470,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:50.565950,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:50.707509,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:50.843275,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:50.976502,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:51.096352,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:51.224937,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:51.353581,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:51.569033,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:51.683656,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:51.808702,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:51.933998,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:52.075020,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:52.939347,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:53.066544,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:53.187396,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:53.319748,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:53.437650,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:53.565182,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:53.797110,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:53.910344,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:54.046005,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:54.170824,77.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:15:55.384631,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:56.293184,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:56.521010,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:56.645684,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few deep breaths to maintain your calm and focus.
+2026-05-09 09:15:57.841597,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-09 09:15:57.975216,76.0,30.2,68.0,neutral,HIGH,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-09 09:15:58.091528,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-09 09:15:58.215286,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-09 09:15:59.131267,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-09 09:15:59.362995,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-09 09:15:59.487724,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-09 09:16:00.580033,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-09 09:16:00.782384,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-09 09:16:00.912053,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-09 09:16:01.039507,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-09 09:16:01.935481,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-09 09:16:02.186195,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-09 09:22:01.548870,55.0,29.8,69.0,neutral,LOW,LOW,LOW,Try incorporating a 5-minute mindfulness breathing exercise into your day to enhance relaxation.
+2026-05-09 09:22:03.490672,55.0,29.8,69.0,neutral,LOW,LOW,LOW,Try incorporating a 5-minute mindfulness breathing exercise into your day to enhance relaxation.
+2026-05-09 09:22:03.637922,55.0,29.8,69.0,neutral,LOW,LOW,LOW,Try incorporating a 5-minute mindfulness breathing exercise into your day to enhance relaxation.
+2026-05-09 09:22:03.865441,73.0,29.8,69.0,neutral,LOW,LOW,LOW,Try incorporating a 5-minute mindfulness breathing exercise into your day to enhance relaxation.
+2026-05-09 09:22:04.055598,73.0,29.8,69.0,neutral,LOW,LOW,LOW,Try incorporating a 5-minute mindfulness breathing exercise into your day to enhance relaxation.
+2026-05-09 09:22:04.197041,73.0,29.8,69.0,neutral,LOW,LOW,LOW,Try incorporating a 5-minute mindfulness breathing exercise into your day to enhance relaxation.
+2026-05-09 09:22:05.434319,78.0,29.8,69.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:06.472193,78.0,29.8,69.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:06.633417,78.0,29.8,69.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:06.775994,78.0,29.9,69.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:06.964714,78.0,29.9,69.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:07.117702,78.0,29.9,69.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:07.250578,78.0,29.9,69.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:07.403679,78.0,29.9,69.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:07.575976,78.0,29.9,69.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:07.727693,78.0,29.9,69.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:07.994954,78.0,29.9,69.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:08.152360,78.0,29.9,69.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:08.267705,78.0,30.0,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:08.421060,78.0,30.0,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:09.288443,78.0,30.0,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:09.421758,78.0,30.0,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:09.580739,75.0,30.0,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:09.706696,75.0,30.0,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:09.833930,75.0,30.0,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:09.954581,75.0,30.0,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:10.198681,78.0,30.0,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:10.333570,78.0,30.1,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:10.531651,78.0,30.1,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:10.674253,78.0,30.1,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:10.840539,78.0,30.1,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-09 09:22:12.426527,70.0,30.1,68.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-09 09:22:13.381440,70.0,30.1,68.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-09 09:24:10.968593,64.0,30.2,67.0,neutral,LOW,LOW,LOW,Try taking a 5-minute mindful breathing break to enhance your calm and focus.
+2026-05-09 09:24:12.806007,64.0,30.2,67.0,neutral,LOW,LOW,LOW,Try taking a 5-minute mindful breathing break to enhance your calm and focus.
+2026-05-09 09:24:12.967045,64.0,30.2,67.0,neutral,LOW,LOW,LOW,Try taking a 5-minute mindful breathing break to enhance your calm and focus.
+2026-05-09 09:24:14.030578,82.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:14.309967,82.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:14.459917,82.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:14.619212,82.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:15.537602,82.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:15.681394,82.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:15.962404,82.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:16.099645,82.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:16.252733,82.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:16.514321,82.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:16.669267,84.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:16.798782,84.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:16.944884,84.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:17.096175,84.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:17.259307,80.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:17.392892,80.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:17.526435,80.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:18.425143,80.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:18.722879,80.0,30.2,67.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce tension.
+2026-05-09 09:24:20.073815,73.0,30.2,67.0,neutral,LOW,LOW,LOW,Take a few deep breaths to increase mindfulness and relaxation.
+2026-05-09 09:24:20.219666,73.0,30.2,67.0,neutral,LOW,LOW,LOW,Take a few deep breaths to increase mindfulness and relaxation.
+2026-05-09 09:24:20.389775,73.0,30.2,67.0,neutral,LOW,LOW,LOW,Take a few deep breaths to increase mindfulness and relaxation.
+2026-05-09 09:24:21.243602,73.0,30.2,67.0,neutral,LOW,LOW,LOW,Take a few deep breaths to increase mindfulness and relaxation.
+2026-05-09 09:31:25.468644,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Try incorporating a 5-minute mindful breathing exercise into your day to enhance relaxation.
+2026-05-09 09:31:27.069631,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Try incorporating a 5-minute mindful breathing exercise into your day to enhance relaxation.
+2026-05-09 09:31:27.217713,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Try incorporating a 5-minute mindful breathing exercise into your day to enhance relaxation.
+2026-05-09 09:31:27.368685,67.0,30.2,68.0,neutral,LOW,LOW,LOW,Try incorporating a 5-minute mindful breathing exercise into your day to enhance relaxation.
+2026-05-09 09:31:28.425204,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute break to stretch and breathe deeply to help reset your focus.
+2026-05-09 09:31:28.673773,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute break to stretch and breathe deeply to help reset your focus.
+2026-05-09 09:31:28.839475,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute break to stretch and breathe deeply to help reset your focus.
+2026-05-09 09:31:28.982617,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute break to stretch and breathe deeply to help reset your focus.
+2026-05-09 09:31:29.937824,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute break to stretch and breathe deeply to help reset your focus.
+2026-05-09 09:31:30.075261,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute break to stretch and breathe deeply to help reset your focus.
+2026-05-09 09:31:30.215043,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute break to stretch and breathe deeply to help reset your focus.
+2026-05-09 09:31:30.351120,80.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute break to stretch and breathe deeply to help reset your focus.
+2026-05-09 09:31:31.455360,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:31.736905,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:31.866594,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:32.741047,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:32.895631,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:33.067353,70.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:33.200287,70.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:33.343781,70.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:33.484428,70.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:33.607059,70.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:33.876198,70.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:34.010116,70.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:34.135450,70.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:34.260014,70.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:34.397287,70.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:34.519933,70.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:35.507854,66.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:35.629975,66.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:35.754742,66.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:35.871733,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:36.105552,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:36.224690,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:36.347433,73.0,30.2,68.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to maintain your calm and focus.
+2026-05-09 09:31:37.888352,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:31:38.797657,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:31:38.997774,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:31:39.118720,76.0,30.2,68.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-09 09:31:40.778531,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-09 09:31:41.733942,71.0,30.2,68.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-12 12:11:55.760619,55.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:11:57.634260,55.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:11:57.913014,55.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:11:58.085902,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:11:58.251085,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:11:58.407450,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:11:58.560980,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:11:58.721784,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:11:58.965819,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:11:59.119500,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:11:59.249763,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:11:59.415498,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:11:59.583991,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:12:00.513011,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:12:00.655387,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:12:00.796741,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:12:00.956277,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:12:01.081956,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:12:01.215035,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:12:01.382108,73.0,28.9,73.0,neutral,LOW,LOW,LOW,Try practicing deep breathing for a few minutes to enhance calmness and focus.
+2026-05-12 12:12:03.789538,80.0,28.9,73.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to reset and reduce stress.
+2026-05-12 12:12:04.693979,80.0,28.9,73.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to reset and reduce stress.
+2026-05-12 12:12:04.856276,80.0,28.9,73.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to reset and reduce stress.
+2026-05-12 12:12:05.039188,80.0,28.9,73.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to reset and reduce stress.
+2026-05-12 12:12:05.175447,80.0,28.9,73.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to reset and reduce stress.
+2026-05-12 12:12:05.327361,80.0,28.9,73.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to reset and reduce stress.
+2026-05-12 12:12:05.477014,80.0,28.9,73.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to reset and reduce stress.
+2026-05-12 12:12:05.626398,80.0,28.9,73.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to reset and reduce stress.
+2026-05-12 12:12:07.891208,76.0,28.9,73.0,sad,LOW,LOW,HIGH,"Try taking five deep, slow breaths to help calm your mind and reduce stress."
+2026-05-16 23:00:07.357199,50.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:09.208004,50.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:09.417321,50.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:09.571327,50.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:09.741291,64.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:09.883122,64.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:10.045171,64.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:10.221044,64.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:10.379176,67.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:10.529930,67.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:10.665567,67.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:10.808580,67.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:10.944794,67.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:11.064730,64.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:11.205985,64.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:12.125060,64.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:12.254165,64.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:12.405247,60.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:12.547439,60.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:12.676206,60.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:12.801517,60.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:12.906844,64.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:13.019162,64.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:13.139723,64.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:13.264622,69.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:13.390993,69.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:13.506769,69.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:13.640989,73.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:13.771900,73.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:13.907934,73.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:14.049583,80.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:14.979257,80.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:15.113828,80.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:15.248804,80.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:15.410549,80.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:15.547607,80.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:15.679760,80.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:15.828884,80.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:15.950416,80.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:16.077646,77.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:16.199688,77.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:16.351291,77.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:16.475131,77.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:16.600584,77.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:16.726737,77.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:16.852622,77.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:17.789927,73.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:17.905156,73.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:18.026677,73.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-16 23:00:18.168514,73.0,28.0,92.0,fear,LOW,LOW,HIGH,"Try deep, slow breathing exercises to help calm your nervous system."
+2026-05-17 04:19:24.972328,62.0,27.1,92.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to enhance relaxation and focus.
+2026-05-17 04:19:26.632796,62.0,27.1,92.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to enhance relaxation and focus.
+2026-05-17 04:19:26.803105,62.0,27.1,92.0,neutral,LOW,LOW,LOW,Try taking a brief mindful breathing break to enhance relaxation and focus.
+2026-05-17 04:19:27.815095,80.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:27.965816,80.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:28.182201,80.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:28.328630,80.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:28.497835,80.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:29.427278,80.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:29.591859,80.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:29.737678,80.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:29.865470,80.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:30.020836,80.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:30.151306,80.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:30.303965,80.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:30.447945,80.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:30.589696,85.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:30.742399,85.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:30.899183,85.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:31.033098,84.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:31.150432,84.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:31.305804,84.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:32.176208,89.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-17 04:19:32.317898,89.0,27.1,92.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help center your focus and reduce stress.
+2026-05-18 18:49:36.043341,60.0,28.0,87.0,neutral,LOW,LOW,LOW,"Take a few deep, slow breaths to maintain your calm and focus."
+2026-05-18 18:49:38.714769,60.0,28.0,87.0,neutral,LOW,LOW,LOW,"Take a few deep, slow breaths to maintain your calm and focus."
+2026-05-18 18:49:39.178766,60.0,28.0,87.0,neutral,LOW,LOW,LOW,"Take a few deep, slow breaths to maintain your calm and focus."
+2026-05-18 18:49:41.933096,77.0,28.0,87.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:42.925965,77.0,28.0,87.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:43.894331,77.0,28.0,87.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:44.157873,77.0,28.0,87.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:44.446138,77.0,28.0,87.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:44.729594,77.0,28.0,87.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:45.724032,77.0,28.0,87.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:45.996688,77.0,28.0,87.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:46.225972,77.0,28.0,87.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:46.413213,77.0,28.0,87.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:46.636234,77.0,28.0,87.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:46.872743,77.0,28.0,87.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:47.240656,77.0,28.0,87.0,neutral,HIGH,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:47.451515,77.0,28.0,87.0,neutral,HIGH,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset and reduce stress.
+2026-05-18 18:49:50.223104,72.0,28.0,87.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:51.388325,72.0,28.0,87.0,neutral,HIGH,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:51.706861,72.0,28.0,87.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:51.961871,72.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:52.241839,72.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:52.446006,72.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:52.696536,72.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:53.011377,72.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:53.279046,75.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:54.212566,75.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:54.457125,75.0,28.0,86.0,neutral,HIGH,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:54.660317,75.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:54.879257,75.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:55.118147,75.0,28.0,87.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:55.445819,75.0,28.0,87.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:55.677107,75.0,28.0,87.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:56.005035,75.0,28.0,87.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:56.210232,75.0,28.0,87.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:57.216832,75.0,28.0,87.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:57.440708,75.0,28.0,87.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:57.667059,75.0,28.0,87.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:57.911119,67.0,28.0,87.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:58.120449,67.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:58.332447,67.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:58.585017,67.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:49:58.939940,67.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:50:00.058913,67.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:50:00.296251,67.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:50:00.522937,67.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:50:00.712573,64.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:50:00.909727,64.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:50:01.225282,64.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:50:01.507303,68.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:50:01.684530,68.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:50:01.911771,68.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-18 18:50:02.896328,68.0,28.0,86.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to maintain your calm and focus.
+2026-05-19 10:59:14.775523,53.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:17.049603,53.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:17.262104,53.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:17.475695,53.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:17.699770,67.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:17.909043,67.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:18.140575,67.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:18.335903,67.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:18.568733,67.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:18.862370,67.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:19.882154,76.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:20.116328,76.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:20.307136,76.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:20.505950,76.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:20.686566,71.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:20.996067,71.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:21.205148,71.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:21.406189,71.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:21.687113,67.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:22.755575,67.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:22.919701,67.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:23.100526,67.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:23.305651,62.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:23.507099,62.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:23.824456,62.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:23.994685,67.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:24.200741,67.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:24.371084,67.0,28.0,89.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:24.558558,67.0,28.0,88.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:24.721893,71.0,28.0,88.0,neutral,LOW,LOW,LOW,Try a gentle morning stretch to start your day feeling refreshed.
+2026-05-19 10:59:31.006299,71.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and restore focus.
+2026-05-19 10:59:32.175748,71.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and restore focus.
+2026-05-19 10:59:32.356664,71.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and restore focus.
+2026-05-19 10:59:32.553536,71.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and restore focus.
+2026-05-19 10:59:32.747501,71.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and restore focus.
+2026-05-19 10:59:33.087577,71.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and restore focus.
+2026-05-19 10:59:33.261192,71.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and restore focus.
+2026-05-19 10:59:33.438172,71.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and restore focus.
+2026-05-19 10:59:33.646929,71.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and restore focus.
+2026-05-19 10:59:33.867306,71.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and restore focus.
+2026-05-19 10:59:34.084492,71.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and restore focus.
+2026-05-19 10:59:35.959142,71.0,28.0,88.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and boost your mood.
+2026-05-19 10:59:36.198529,71.0,28.0,88.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and boost your mood.
+2026-05-19 10:59:36.421414,71.0,28.0,88.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and boost your mood.
+2026-05-19 10:59:36.617452,71.0,28.0,88.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and boost your mood.
+2026-05-19 10:59:36.777584,71.0,28.0,88.0,neutral,LOW,LOW,LOW,Take a brief walk outside to refresh your mind and boost your mood.
+2026-05-19 10:59:39.144588,71.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a few deep breaths to help calm your mind and reduce stress.
+2026-05-19 10:59:39.322223,62.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a few deep breaths to help calm your mind and reduce stress.
+2026-05-19 10:59:39.520250,62.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a few deep breaths to help calm your mind and reduce stress.
+2026-05-19 10:59:39.709701,62.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a few deep breaths to help calm your mind and reduce stress.
+2026-05-19 10:59:39.861023,62.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a few deep breaths to help calm your mind and reduce stress.
+2026-05-19 10:59:40.042507,62.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Take a few deep breaths to help calm your mind and reduce stress.
+2026-05-19 10:59:42.172361,60.0,28.0,88.0,neutral,LOW,LOW,LOW,Try taking a few deep breaths to maintain your calm and focus.
+2026-05-19 10:59:42.349362,60.0,28.0,88.0,neutral,LOW,LOW,LOW,Try taking a few deep breaths to maintain your calm and focus.
+2026-05-19 10:59:42.577891,60.0,28.0,88.0,neutral,LOW,LOW,LOW,Try taking a few deep breaths to maintain your calm and focus.
+2026-05-19 10:59:42.772395,64.0,28.0,88.0,neutral,LOW,LOW,LOW,Try taking a few deep breaths to maintain your calm and focus.
+2026-05-19 10:59:42.957046,64.0,28.0,88.0,neutral,LOW,LOW,LOW,Try taking a few deep breaths to maintain your calm and focus.
+2026-05-19 10:59:44.085637,64.0,28.0,88.0,neutral,LOW,LOW,LOW,Try taking a few deep breaths to maintain your calm and focus.
+2026-05-19 10:59:44.305639,69.0,28.0,88.0,neutral,LOW,LOW,LOW,Try taking a few deep breaths to maintain your calm and focus.
+2026-05-19 10:59:44.653149,69.0,28.0,88.0,neutral,LOW,LOW,LOW,Try taking a few deep breaths to maintain your calm and focus.
+2026-05-19 10:59:44.983545,69.0,28.0,88.0,neutral,LOW,LOW,LOW,Try taking a few deep breaths to maintain your calm and focus.
+2026-05-19 10:59:45.167055,73.0,28.0,88.0,neutral,LOW,LOW,LOW,Try taking a few deep breaths to maintain your calm and focus.
+2026-05-19 10:59:45.406842,73.0,28.0,88.0,neutral,LOW,LOW,LOW,Try taking a few deep breaths to maintain your calm and focus.
+2026-05-19 10:59:45.583127,73.0,28.0,88.0,neutral,LOW,LOW,LOW,Try taking a few deep breaths to maintain your calm and focus.
+2026-05-19 10:59:47.367118,82.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-19 10:59:48.394939,82.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-19 10:59:48.579673,82.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-19 10:59:48.753026,82.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-19 10:59:48.947022,85.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-19 10:59:49.115535,85.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-19 10:59:49.283698,85.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-19 10:59:49.456262,85.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-19 10:59:49.656033,85.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-19 10:59:49.850548,85.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-19 10:59:50.007431,85.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-19 10:59:50.231737,85.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-19 10:59:52.235320,77.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Try deep breathing exercises for 5 minutes to help reduce stress and calm your mind.
+2026-05-19 10:59:52.538670,77.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Try deep breathing exercises for 5 minutes to help reduce stress and calm your mind.
+2026-05-19 10:59:52.761430,77.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Try deep breathing exercises for 5 minutes to help reduce stress and calm your mind.
+2026-05-19 10:59:52.932582,78.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Try deep breathing exercises for 5 minutes to help reduce stress and calm your mind.
+2026-05-19 10:59:53.137429,78.0,28.0,88.0,neutral,LOW,HIGH,HIGH,Try deep breathing exercises for 5 minutes to help reduce stress and calm your mind.
+2026-05-19 10:59:54.993700,78.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-19 10:59:55.153090,78.0,28.0,88.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-19 10:59:55.482503,78.0,28.1,88.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and increase focus.
+2026-05-19 10:59:58.317558,78.0,28.1,88.0,neutral,LOW,HIGH,HIGH,Take a few deep breaths to help calm your mind and reduce stress.
+2026-05-19 10:59:58.506852,69.0,28.1,88.0,neutral,LOW,HIGH,HIGH,Take a few deep breaths to help calm your mind and reduce stress.
+2026-05-19 10:59:58.665657,69.0,28.1,88.0,neutral,LOW,HIGH,HIGH,Take a few deep breaths to help calm your mind and reduce stress.
+2026-05-19 10:59:58.842869,69.0,28.1,88.0,neutral,LOW,HIGH,HIGH,Take a few deep breaths to help calm your mind and reduce stress.
+2026-05-19 10:59:59.016080,73.0,28.1,88.0,neutral,LOW,HIGH,HIGH,Take a few deep breaths to help calm your mind and reduce stress.
+2026-05-19 10:59:59.208131,73.0,28.1,88.0,neutral,LOW,HIGH,HIGH,Take a few deep breaths to help calm your mind and reduce stress.
+2026-05-19 11:00:01.551429,73.0,28.1,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:01.748626,73.0,28.1,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:01.924067,73.0,28.4,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:02.100009,73.0,28.4,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:02.281645,73.0,28.4,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:02.460087,73.0,28.4,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:03.372440,73.0,28.4,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:03.555731,71.0,28.4,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:03.738199,71.0,28.4,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:04.070212,71.0,28.4,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:04.262810,71.0,28.4,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:04.422257,66.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:04.642694,66.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:04.805855,66.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:04.971952,76.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:05.171643,76.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:05.359234,76.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to enhance relaxation and focus.
+2026-05-19 11:00:07.183485,76.0,28.5,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and regain focus.
+2026-05-19 11:00:07.380550,71.0,28.5,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and regain focus.
+2026-05-19 11:00:07.583224,71.0,28.5,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and regain focus.
+2026-05-19 11:00:07.788025,71.0,28.5,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and regain focus.
+2026-05-19 11:00:07.983269,71.0,28.5,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and regain focus.
+2026-05-19 11:00:08.203702,71.0,28.5,88.0,neutral,LOW,HIGH,HIGH,Take a 5-minute mindful breathing break to help reduce stress and regain focus.
+2026-05-19 11:00:10.047948,71.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-19 11:00:10.219349,71.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-19 11:00:10.396082,76.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-19 11:00:10.582746,76.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-19 11:00:10.844294,76.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-19 11:00:11.094417,76.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-19 11:00:12.013005,76.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-19 11:00:12.207066,76.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-19 11:00:12.400073,76.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-19 11:00:12.592538,76.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-19 11:00:12.777336,76.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-19 11:00:13.403139,76.0,28.5,88.0,neutral,LOW,LOW,LOW,Take a few minutes to practice deep breathing to maintain your calm and focus.
+2026-05-19 11:00:14.824311,80.0,28.5,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and refocus your mind.
+2026-05-19 11:00:15.833941,80.0,28.5,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and refocus your mind.
+2026-05-19 11:00:16.320628,80.0,28.5,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and refocus your mind.
+2026-05-19 11:00:16.495526,80.0,28.5,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and refocus your mind.
+2026-05-19 11:00:16.679990,80.0,28.5,88.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reduce stress and refocus your mind.
+2026-05-19 12:27:02.501154,62.0,29.8,80.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:04.241831,62.0,29.8,80.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:04.413514,62.0,29.8,80.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:04.586261,80.0,29.8,80.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:04.755953,80.0,29.8,80.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:04.921894,80.0,29.8,80.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:05.216550,80.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:05.393471,75.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:05.558058,75.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:05.718395,75.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:05.880303,75.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:06.023038,76.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:06.170033,76.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:07.037542,76.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:07.185331,76.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:07.318707,76.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:07.473259,76.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:07.617070,80.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:07.747804,80.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:07.895637,80.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:08.138792,80.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:08.271132,80.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:08.408658,80.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:08.542024,84.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:08.670724,84.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:08.805815,84.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:08.939194,89.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:09.803049,89.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:09.951415,89.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:10.099485,89.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:10.243395,84.0,29.8,80.0,angry,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-19 12:27:10.510766,84.0,29.8,80.0,sad,LOW,LOW,HIGH,"Try taking slow, deep breaths for a few minutes to help calm your nervous system and reduce fear."
+2026-05-28 08:35:09.236931,53.0,29.3,87.0,neutral,LOW,LOW,LOW,Try adding a few gentle stretches to your day to keep your body relaxed and flexible.
+2026-05-28 08:35:11.278126,53.0,29.3,87.0,neutral,LOW,LOW,LOW,Try adding a few gentle stretches to your day to keep your body relaxed and flexible.
+2026-05-28 08:35:11.453145,53.0,29.3,87.0,neutral,LOW,LOW,LOW,Try adding a few gentle stretches to your day to keep your body relaxed and flexible.
+2026-05-28 08:35:11.610289,53.0,29.3,87.0,neutral,LOW,LOW,LOW,Try adding a few gentle stretches to your day to keep your body relaxed and flexible.
+2026-05-28 08:35:11.758856,66.0,29.3,87.0,neutral,LOW,LOW,LOW,Try adding a few gentle stretches to your day to keep your body relaxed and flexible.
+2026-05-28 08:35:11.905251,66.0,29.3,87.0,neutral,LOW,LOW,LOW,Try adding a few gentle stretches to your day to keep your body relaxed and flexible.
+2026-05-28 08:35:12.059007,66.0,29.3,87.0,neutral,LOW,LOW,LOW,Try adding a few gentle stretches to your day to keep your body relaxed and flexible.
+2026-05-28 08:35:13.928526,84.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:14.912204,84.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:15.052127,84.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:15.177412,84.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:15.337187,84.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:15.460399,84.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:15.607675,84.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:15.727636,84.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:15.839894,84.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:15.979223,84.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:16.110951,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:16.370263,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:16.498475,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:16.632120,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:16.759877,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:16.887396,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:17.771757,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:17.913387,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:18.044422,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:18.162133,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:18.282111,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:18.415733,76.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:18.625450,76.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:18.730094,76.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:18.868381,76.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:18.989186,76.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:19.119564,76.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:19.259848,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:19.388924,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:19.497571,80.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:19.626519,85.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:20.591303,85.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:20.720059,85.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:20.911158,85.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:21.045611,85.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:21.167019,85.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:21.337506,85.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:21.451328,85.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:21.595998,82.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:21.723380,82.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:21.843387,82.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:21.968823,82.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:22.084055,82.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:22.210385,82.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:22.332980,82.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:22.459358,77.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:23.407350,77.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:23.657633,77.0,29.3,87.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:23.772244,77.0,29.3,86.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:35:26.117905,73.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:27.170807,73.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:27.305213,73.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:27.438462,73.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:27.557880,68.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:27.679460,68.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:27.812033,68.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:27.977491,68.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:28.093287,71.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:28.244669,71.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:28.378097,71.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:28.512058,71.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:28.652285,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:28.787145,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:28.908191,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:29.013680,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:29.148470,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:30.058060,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:30.185349,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:30.290730,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:30.422160,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:30.536037,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:30.639022,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:30.746486,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:30.865074,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:31.008891,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:31.115639,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:31.227422,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:31.332692,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:31.445411,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:31.686756,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:31.821931,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:31.935329,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:32.824777,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:33.065229,67.0,29.3,86.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:33.186407,67.0,29.3,86.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:33.311342,67.0,29.3,86.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:33.414458,67.0,29.3,86.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:33.530310,67.0,29.3,86.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:33.646117,71.0,29.3,86.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:33.746810,71.0,29.3,86.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:33.859857,71.0,29.3,86.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:33.960934,71.0,29.3,86.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:34.064266,71.0,29.3,86.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:34.169932,71.0,29.3,86.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:34.284487,71.0,29.3,86.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:34.399606,71.0,29.3,85.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:34.519889,71.0,29.3,85.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:34.637145,71.0,29.3,85.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:34.753734,71.0,29.3,85.0,happy,LOW,LOW,LOW,Take a short walk outside to refresh your mind and body.
+2026-05-28 08:35:37.050864,76.0,29.3,85.0,happy,LOW,LOW,MEDIUM,Take a brisk 10-minute walk outside to boost your mood and reduce stress.
+2026-05-28 08:35:37.308474,76.0,29.3,85.0,neutral,LOW,LOW,MEDIUM,Take a brisk 10-minute walk outside to boost your mood and reduce stress.
+2026-05-28 08:35:37.442900,76.0,29.3,85.0,neutral,LOW,LOW,MEDIUM,Take a brisk 10-minute walk outside to boost your mood and reduce stress.
+2026-05-28 08:35:37.568004,76.0,29.3,85.0,neutral,LOW,LOW,MEDIUM,Take a brisk 10-minute walk outside to boost your mood and reduce stress.
+2026-05-28 08:35:38.464186,76.0,29.3,85.0,neutral,LOW,LOW,MEDIUM,Take a brisk 10-minute walk outside to boost your mood and reduce stress.
+2026-05-28 08:35:38.589685,76.0,29.3,85.0,neutral,LOW,LOW,MEDIUM,Take a brisk 10-minute walk outside to boost your mood and reduce stress.
+2026-05-28 08:35:38.699152,76.0,29.3,85.0,neutral,LOW,LOW,MEDIUM,Take a brisk 10-minute walk outside to boost your mood and reduce stress.
+2026-05-28 08:35:38.811831,76.0,29.3,85.0,neutral,LOW,LOW,MEDIUM,Take a brisk 10-minute walk outside to boost your mood and reduce stress.
+2026-05-28 08:35:39.610613,71.0,29.3,85.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:39.953919,71.0,29.3,85.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:40.077730,71.0,29.3,85.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:40.204684,71.0,29.3,85.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:40.328365,71.0,29.3,85.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:40.460956,71.0,29.3,85.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:41.365103,71.0,29.3,85.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:41.483147,71.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:41.613759,71.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:41.743215,71.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:41.909595,71.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:42.170937,71.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:42.287463,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:42.408143,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:42.526060,67.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:35:42.657488,71.0,29.3,86.0,neutral,LOW,LOW,LOW,Take a few moments to stretch gently to refresh your body and mind.
+2026-05-28 08:39:18.868033,53.0,29.8,83.0,neutral,LOW,LOW,LOW,Try incorporating a few minutes of deep breathing into your day to maintain calm and focus.
+2026-05-28 08:39:20.493725,53.0,29.8,83.0,neutral,LOW,LOW,LOW,Try incorporating a few minutes of deep breathing into your day to maintain calm and focus.
+2026-05-28 08:39:20.651708,53.0,29.8,83.0,neutral,LOW,LOW,LOW,Try incorporating a few minutes of deep breathing into your day to maintain calm and focus.
+2026-05-28 08:39:20.805427,53.0,29.8,83.0,neutral,LOW,LOW,LOW,Try incorporating a few minutes of deep breathing into your day to maintain calm and focus.
+2026-05-28 08:39:20.940711,53.0,29.8,83.0,neutral,LOW,LOW,LOW,Try incorporating a few minutes of deep breathing into your day to maintain calm and focus.
+2026-05-28 08:39:23.374870,53.0,29.8,83.0,neutral,LOW,LOW,LOW,--
+2026-05-28 08:39:23.507396,53.0,29.8,83.0,neutral,LOW,LOW,LOW,--
+2026-05-28 08:39:23.636268,53.0,29.8,83.0,neutral,LOW,LOW,LOW,--
+2026-05-28 08:39:23.757944,71.0,29.8,83.0,neutral,LOW,LOW,LOW,--
+2026-05-28 08:39:23.892382,71.0,29.8,83.0,neutral,LOW,LOW,LOW,--
+2026-05-28 08:39:24.005461,71.0,29.8,83.0,neutral,LOW,LOW,LOW,--
+2026-05-28 08:39:25.000763,89.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:25.125260,89.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:25.256416,89.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:26.161704,89.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:26.283995,89.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:26.401375,89.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:26.533823,89.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:26.655519,84.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:26.782736,84.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:26.908274,84.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:27.022060,84.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:27.145435,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:27.274868,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:27.409227,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:27.547927,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:27.697711,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:27.840506,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:27.970992,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:28.088565,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:28.992141,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:29.105984,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:29.241319,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:29.376470,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:30.426352,69.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:30.547235,69.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:30.675581,69.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:30.778253,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:30.892815,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:31.754098,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:31.891255,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:32.025343,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:32.152167,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:32.279933,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:32.417575,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:32.547757,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:32.667876,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:32.797718,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:32.914698,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:33.042291,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:33.168643,73.0,29.8,83.0,neutral,HIGH,LOW,LOW,Take a brief 5-minute walk outside to refresh your mind.
+2026-05-28 08:39:34.524617,80.0,29.8,83.0,neutral,HIGH,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:35.430214,80.0,29.8,83.0,neutral,HIGH,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:35.543913,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:35.676795,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:35.797396,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:35.922901,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:36.045203,85.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:36.172598,85.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:36.287610,85.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:36.408715,85.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:36.549653,84.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:36.680336,84.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:36.816936,84.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:36.948282,84.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:37.082272,84.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:37.219711,84.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:37.345897,84.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:38.307915,84.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:38.457588,84.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:38.585101,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:38.697852,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:38.815351,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:38.923528,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:39.037472,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:39.164986,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:40.136283,75.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to enhance relaxation and focus.
+2026-05-28 08:39:40.257354,75.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to enhance relaxation and focus.
+2026-05-28 08:39:41.195701,75.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a few moments to practice deep breathing to enhance relaxation and focus.
+2026-05-28 08:39:42.304987,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:42.409448,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:42.520974,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:42.654773,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:42.761383,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:42.879143,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:43.003553,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:43.128726,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:44.030374,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:44.143525,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:44.273665,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:44.384809,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:44.504728,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:44.629340,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:44.744191,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:44.867193,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:44.983658,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:45.124993,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:45.239095,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:45.354249,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:45.473609,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:45.595488,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:45.710825,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Take a 5-minute mindful breathing break to help reset your focus and reduce stress.
+2026-05-28 08:39:45.872804,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,--
+2026-05-28 08:39:45.999749,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,--
+2026-05-28 08:39:46.877672,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,--
+2026-05-28 08:39:46.987274,76.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,--
+2026-05-28 08:39:47.098867,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,--
+2026-05-28 08:39:47.214609,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,--
+2026-05-28 08:39:47.333436,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,--
+2026-05-28 08:39:47.458648,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,--
+2026-05-28 08:39:47.598196,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,--
+2026-05-28 08:39:47.726581,80.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,--
+2026-05-28 08:39:47.850829,80.0,29.8,82.0,neutral,LOW,LOW,MEDIUM,--
+2026-05-28 08:39:47.965502,80.0,29.8,82.0,neutral,LOW,LOW,MEDIUM,--
+2026-05-28 08:39:48.070396,80.0,29.8,82.0,neutral,LOW,LOW,MEDIUM,--
+2026-05-28 08:39:49.062452,73.0,29.8,82.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-28 08:39:49.952630,73.0,29.8,82.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-28 08:39:50.090126,73.0,29.8,82.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-28 08:39:50.217809,73.0,29.8,82.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-28 08:39:50.340936,73.0,29.8,82.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-28 08:39:50.469039,73.0,29.8,82.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to refresh your mind.
+2026-05-28 08:39:51.727851,77.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:51.854736,77.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:52.745046,77.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:52.883240,77.0,29.8,83.0,neutral,LOW,LOW,MEDIUM,Try taking a 5-minute mindful breathing break to help reduce stress and improve focus.
+2026-05-28 08:39:53.982091,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to stay centered and relaxed.
+2026-05-28 08:39:54.103266,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to stay centered and relaxed.
+2026-05-28 08:39:54.225237,73.0,29.8,83.0,neutral,LOW,LOW,LOW,Take a 5-minute mindful breathing break to stay centered and relaxed.
+2026-05-28 08:42:48.588636,53.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:50.289619,53.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:50.464130,53.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:50.638093,71.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:50.810159,71.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:50.955123,71.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:51.121319,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:51.294809,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:51.449734,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:51.589614,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:51.737881,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:51.882001,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:52.016919,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:52.169798,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:53.062051,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:53.207252,89.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:53.357407,89.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:53.512789,89.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:53.662961,89.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:53.791286,89.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:53.940197,89.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:54.082942,89.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:54.237399,89.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:54.378008,89.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:54.514700,89.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:54.670257,85.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:54.799377,85.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:54.941769,85.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:55.856118,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:56.010926,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:56.158795,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:56.407700,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:56.574361,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:56.749102,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:56.902445,85.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:57.050042,85.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:57.210135,85.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:57.372651,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:57.528571,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:57.671672,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:57.840408,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:58.717592,84.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:58.862367,82.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:58.992114,82.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:59.138903,82.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:59.269483,82.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:59.388783,82.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:59.535963,82.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:59.662131,82.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:59.805881,82.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:42:59.943142,74.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:00.112609,74.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:00.242175,74.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:00.394031,74.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:00.527857,74.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:00.647623,74.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:01.549975,74.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:01.695016,74.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:01.857293,74.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:01.981881,74.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:02.106798,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:02.261562,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:02.402230,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:02.550094,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:02.693531,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:02.837192,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:02.986406,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:03.126691,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:03.267632,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:03.407172,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:04.359584,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:04.503492,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:04.651146,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:04.802701,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:04.959953,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:05.115081,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:05.246553,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:05.384252,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:05.540546,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:05.704983,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:05.855816,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:06.005157,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:06.174270,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:06.307513,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:07.190068,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:07.346741,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:07.504855,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:07.649029,76.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:07.790249,76.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:07.943501,76.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:08.078108,76.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:08.225407,71.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:08.382625,71.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:08.528213,71.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:08.671114,71.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:08.828018,67.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:08.972514,67.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:09.101101,67.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:10.005101,67.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:10.163076,66.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:10.308399,66.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:10.459879,66.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:10.587589,66.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:10.735556,66.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:10.857144,64.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:10.994001,64.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:11.141357,64.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:11.292104,68.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:11.440661,68.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:11.580489,68.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:11.741518,68.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:11.882191,68.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:12.858839,68.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:13.005438,68.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:13.157777,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:13.295202,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:13.424776,73.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:13.584351,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:13.720700,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:13.853148,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:14.009257,77.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:14.155775,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:14.293701,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:14.417769,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:14.552037,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:14.676299,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:14.823260,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:15.709645,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:15.845343,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
+2026-05-28 08:43:15.966852,80.0,29.8,81.0,fear,LOW,LOW,HIGH,"Try taking slow, deep breaths to help calm your nervous system and reduce stress."
